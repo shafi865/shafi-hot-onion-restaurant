@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.search-container{
+    background-image: url('../../images/Icon/bannerbackground.png');
+    height: 500px;
+    width: 100%;
+  }
+
+  .search-inp{
+    width: 20%;
+    border: none;
+    border-radius: 30px;
+    padding: 8px 30px;
+    line-height: inherit;
+
+  }
+
+  button, input {
+    overflow: visible;
+    }
+
+.banner-content button {
+	padding: 6px 30px;
+	margin-left: -35px;
+}
+  

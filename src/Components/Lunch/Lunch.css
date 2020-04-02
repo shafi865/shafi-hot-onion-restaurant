@@ -1,0 +1,12 @@
+.image{
+    width: 40%;
+}
+
+.food-container{
+    border: none;
+    display: block;
+   
+}
+.food-container:hover{
+    box-shadow: darkgray 2px;
+}
